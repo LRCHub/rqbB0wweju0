@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "scenario",
+  "base_artist": "Siip",
+  "createdAt": "2025-12-28T12:16:18.612057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scenario",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Scenario_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scenario - Remix",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/02_Scenario_-_Remix_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scenario (Remix)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/03_Scenario_(Remix)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scenario",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/04_Scenario_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scenario 2000",
+      "artist": "Eve feat. L.O.X., DMX & Drag-On",
+      "has_synced": false,
+      "path": "select/05_Scenario_2000_Eve_feat._L.O.X.,_DMX_&_Drag-On.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scenario 2000 (Featuring DMX, The Lox, Drag-On)",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/06_Scenario_2000_(Featuring_DMX,_The_Lox,_Drag-On)_Eve.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dream Scenario",
+      "artist": "Lunascape",
+      "has_synced": false,
+      "path": "select/07_Dream_Scenario_Lunascape.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Mad Blood Scenario",
+      "artist": "Ancient",
+      "has_synced": false,
+      "path": "select/08_A_Mad_Blood_Scenario_Ancient.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lo scenario",
+      "artist": "Lucio Battisti",
+      "has_synced": true,
+      "path": "select/09_Lo_scenario_Lucio_Battisti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "70's Scenario",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/10_70's_Scenario_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scenario",
+      "artist": "A Tribe Called Quest feat. Leaders of the New School",
+      "has_synced": false,
+      "path": "select/11_Scenario_A_Tribe_Called_Quest_feat._Leaders_of_the_New_School.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/12_LOVE_SCENARIO_iKON.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scenario",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/13_Scenario_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ai No Scenario",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/14_Ai_No_Scenario_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scenario - LP Mix",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/15_Scenario_-_LP_Mix_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Scenario",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/16_Scenario_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Scenario",
+      "artist": "Dramarama",
+      "has_synced": true,
+      "path": "select/17_Scenario_Dramarama.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Scenario",
+      "artist": "Dramarama",
+      "has_synced": true,
+      "path": "select/18_Scenario_Dramarama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "scenario",
+      "artist": "Siip",
+      "has_synced": false,
+      "path": "select/pl_01_scenario_Siip.txt"
+    }
+  ]
+}
